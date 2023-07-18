@@ -1,0 +1,94 @@
+[2023-07-14 07:09:47 +0000] [135] [INFO] Starting gunicorn 19.9.0
+[2023-07-14 07:09:47 +0000] [135] [INFO] Listening at: http://127.0.0.1:8080 (135)
+[2023-07-14 07:09:47 +0000] [135] [INFO] Using worker: threads
+[2023-07-14 07:09:47 +0000] [144] [INFO] Booting worker with pid: 144
+[2023-07-14 07:09:47 +0000] [145] [INFO] Booting worker with pid: 145
+[2023-07-14 07:09:47 +0000] [146] [INFO] Booting worker with pid: 146
+[2023-07-14 07:09:47 +0000] [147] [INFO] Booting worker with pid: 147
+[2023-07-14 07:09:47 +0000] [155] [INFO] Booting worker with pid: 155
+[2023-07-14 07:09:47 +0000] [156] [INFO] Booting worker with pid: 156
+[2023-07-18 12:09:21 +0000] [135] [INFO] Handling signal: term
+[2023-07-18 12:09:21 +0000] [145] [INFO] Worker exiting (pid: 145)
+[2023-07-18 12:09:21 +0000] [144] [INFO] Worker exiting (pid: 144)
+[2023-07-18 12:09:21 +0000] [146] [INFO] Worker exiting (pid: 146)
+[2023-07-18 12:09:21 +0000] [147] [INFO] Worker exiting (pid: 147)
+[2023-07-18 12:09:21 +0000] [156] [INFO] Worker exiting (pid: 156)
+[2023-07-18 12:09:22 +0000] [155] [INFO] Worker exiting (pid: 155)
+[2023-07-18 12:09:22 +0000] [135] [INFO] Shutting down: Master
+[2023-07-18 12:09:45 +0000] [105] [INFO] Starting gunicorn 19.9.0
+[2023-07-18 12:09:45 +0000] [105] [INFO] Listening at: http://127.0.0.1:8080 (105)
+[2023-07-18 12:09:45 +0000] [105] [INFO] Using worker: threads
+[2023-07-18 12:09:45 +0000] [114] [INFO] Booting worker with pid: 114
+[2023-07-18 12:09:45 +0000] [115] [INFO] Booting worker with pid: 115
+[2023-07-18 12:09:46 +0000] [116] [INFO] Booting worker with pid: 116
+[2023-07-18 12:09:46 +0000] [117] [INFO] Booting worker with pid: 117
+[2023-07-18 12:09:46 +0000] [125] [INFO] Booting worker with pid: 125
+[2023-07-18 12:09:46 +0000] [126] [INFO] Booting worker with pid: 126
+[2023-07-18 12:11:19 +0000] [105] [INFO] Handling signal: term
+[2023-07-18 12:11:19 +0000] [115] [INFO] Worker exiting (pid: 115)
+[2023-07-18 12:11:19 +0000] [116] [INFO] Worker exiting (pid: 116)
+[2023-07-18 12:11:19 +0000] [126] [INFO] Worker exiting (pid: 126)
+[2023-07-18 12:11:19 +0000] [117] [INFO] Worker exiting (pid: 117)
+[2023-07-18 12:11:19 +0000] [125] [INFO] Worker exiting (pid: 125)
+[2023-07-18 12:11:20 +0000] [114] [INFO] Worker exiting (pid: 114)
+[2023-07-18 12:11:20 +0000] [105] [INFO] Shutting down: Master
+[2023-07-18 12:19:30 +0000] [105] [INFO] Starting gunicorn 19.9.0
+[2023-07-18 12:19:30 +0000] [105] [INFO] Listening at: http://127.0.0.1:8080 (105)
+[2023-07-18 12:19:30 +0000] [105] [INFO] Using worker: threads
+[2023-07-18 12:19:30 +0000] [114] [INFO] Booting worker with pid: 114
+[2023-07-18 12:19:30 +0000] [115] [INFO] Booting worker with pid: 115
+[2023-07-18 12:19:30 +0000] [116] [INFO] Booting worker with pid: 116
+[2023-07-18 12:19:30 +0000] [117] [INFO] Booting worker with pid: 117
+[2023-07-18 12:19:30 +0000] [118] [INFO] Booting worker with pid: 118
+[2023-07-18 12:19:30 +0000] [119] [INFO] Booting worker with pid: 119
+[2023-07-18 20:02:58 +0000] [105] [INFO] Handling signal: term
+[2023-07-18 20:02:58 +0000] [114] [INFO] Worker exiting (pid: 114)
+[2023-07-18 20:02:58 +0000] [118] [INFO] Worker exiting (pid: 118)
+[2023-07-18 20:02:58 +0000] [119] [INFO] Worker exiting (pid: 119)
+[2023-07-18 20:02:58 +0000] [117] [INFO] Worker exiting (pid: 117)
+[2023-07-18 20:02:59 +0000] [116] [INFO] Worker exiting (pid: 116)
+[2023-07-18 20:02:59 +0000] [115] [INFO] Worker exiting (pid: 115)
+[2023-07-18 20:02:59 +0000] [105] [INFO] Shutting down: Master
+[2023-07-18 20:03:26 +0000] [109] [INFO] Starting gunicorn 19.9.0
+[2023-07-18 20:03:26 +0000] [109] [INFO] Listening at: http://127.0.0.1:8080 (109)
+[2023-07-18 20:03:26 +0000] [109] [INFO] Using worker: threads
+[2023-07-18 20:03:26 +0000] [118] [INFO] Booting worker with pid: 118
+[2023-07-18 20:03:26 +0000] [119] [INFO] Booting worker with pid: 119
+[2023-07-18 20:03:26 +0000] [120] [INFO] Booting worker with pid: 120
+[2023-07-18 20:03:26 +0000] [121] [INFO] Booting worker with pid: 121
+[2023-07-18 20:03:26 +0000] [122] [INFO] Booting worker with pid: 122
+[2023-07-18 20:03:27 +0000] [130] [INFO] Booting worker with pid: 130
+[2023-07-18 20:03:49 +0000] [109] [INFO] Handling signal: term
+[2023-07-18 20:03:50 +0000] [130] [INFO] Worker exiting (pid: 130)
+[2023-07-18 20:03:50 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2023-07-18 20:03:50 +0000] [120] [INFO] Worker exiting (pid: 120)
+[2023-07-18 20:03:50 +0000] [119] [INFO] Worker exiting (pid: 119)
+[2023-07-18 20:03:50 +0000] [118] [INFO] Worker exiting (pid: 118)
+[2023-07-18 20:03:50 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2023-07-18 20:03:50 +0000] [109] [INFO] Shutting down: Master
+[2023-07-18 20:04:17 +0000] [109] [INFO] Starting gunicorn 19.9.0
+[2023-07-18 20:04:17 +0000] [109] [INFO] Listening at: http://127.0.0.1:8080 (109)
+[2023-07-18 20:04:17 +0000] [109] [INFO] Using worker: threads
+[2023-07-18 20:04:17 +0000] [118] [INFO] Booting worker with pid: 118
+[2023-07-18 20:04:18 +0000] [119] [INFO] Booting worker with pid: 119
+[2023-07-18 20:04:18 +0000] [120] [INFO] Booting worker with pid: 120
+[2023-07-18 20:04:18 +0000] [121] [INFO] Booting worker with pid: 121
+[2023-07-18 20:04:18 +0000] [122] [INFO] Booting worker with pid: 122
+[2023-07-18 20:04:18 +0000] [123] [INFO] Booting worker with pid: 123
+[2023-07-18 20:09:09 +0000] [109] [INFO] Handling signal: term
+[2023-07-18 20:09:10 +0000] [119] [INFO] Worker exiting (pid: 119)
+[2023-07-18 20:09:10 +0000] [121] [INFO] Worker exiting (pid: 121)
+[2023-07-18 20:09:10 +0000] [123] [INFO] Worker exiting (pid: 123)
+[2023-07-18 20:09:10 +0000] [118] [INFO] Worker exiting (pid: 118)
+[2023-07-18 20:09:10 +0000] [120] [INFO] Worker exiting (pid: 120)
+[2023-07-18 20:09:10 +0000] [122] [INFO] Worker exiting (pid: 122)
+[2023-07-18 20:09:10 +0000] [109] [INFO] Shutting down: Master
+[2023-07-18 20:10:11 +0000] [109] [INFO] Starting gunicorn 19.9.0
+[2023-07-18 20:10:11 +0000] [109] [INFO] Listening at: http://127.0.0.1:8080 (109)
+[2023-07-18 20:10:11 +0000] [109] [INFO] Using worker: threads
+[2023-07-18 20:10:11 +0000] [118] [INFO] Booting worker with pid: 118
+[2023-07-18 20:10:11 +0000] [119] [INFO] Booting worker with pid: 119
+[2023-07-18 20:10:11 +0000] [120] [INFO] Booting worker with pid: 120
+[2023-07-18 20:10:11 +0000] [121] [INFO] Booting worker with pid: 121
+[2023-07-18 20:10:11 +0000] [122] [INFO] Booting worker with pid: 122
+[2023-07-18 20:10:11 +0000] [130] [INFO] Booting worker with pid: 130
